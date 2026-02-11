@@ -16,3 +16,7 @@ https://nixos.org/download/
 ❄️ Configuration contents:
 
 - Steam, NVIDIA Drivers, firefox, GNOME extensions, experimental GNOME features etc.
+
+
+
+In the future, I plan to build an .iso file and create an independent distribution based on this configuration.
