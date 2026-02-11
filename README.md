@@ -12,3 +12,7 @@ https://nixos.org/download/
 5. If you want to add another application, enter its name and make sure it exists at https://search.nixos.org/packages
 
 6. If the application is not available, download it via Flatpak.
+
+❄️ Configuration contents:
+
+- Steam, NVIDIA Drivers, firefox, GNOME extensions, experimental GNOME features etc.
