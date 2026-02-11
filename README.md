@@ -9,7 +9,7 @@ https://nixos.org/download/
 
 4. If you want to remove an application, delete it in  environment.systemPackages = with pkgs; 
 
-5. If you want to add another application, enter its name in nvironment.systemPackages = with pkgs;  and make sure it exists at https://search.nixos.org/packages
+5. If you want to add another application, enter its name in environment.systemPackages = with pkgs;  and make sure it exists at https://search.nixos.org/packages
 
 6. If the application is not available, download it via Flatpak.
 
